@@ -1,0 +1,10 @@
+COMPANY:
+  name: Apple
+  ticker: AAPL
+  period: 2023_Q3
+
+ANALYSIS:
+  type: risk_assessment
+  focus:
+    - revenue
+    - debt
